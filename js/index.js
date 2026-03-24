@@ -22,25 +22,6 @@ const quotes = [
     "Scniece."
 ];
 
-const showError = (err) => {
-    alert("Error: " + err);
-    console.error(err);
-}
-
-const requestFullscreen = (element) => {
-    if (!element)
-        return;
-
-    if (element.requestFullscreen) {
-        element.requestFullscreen();
-    } else if (element.webkitRequestFullscreen) {
-        element.webkitRequestFullscreen();
-    } else if (element.mozRequestFullScreen) {
-        element.mozRequestFullScreen();
-    } else {
-        showError("Fullscreen API not supported by your browser.");
-    }
-};
 
 const randomColor = () => {
     const r = Math.floor(Math.random() * 256);
