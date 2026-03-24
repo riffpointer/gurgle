@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - Gurgle</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap" rel="stylesheet">
+    <script src="js/theme-init.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/results.css">
+</head>
+
+<body>
+    <div class="gsod-overlay" id="gsod">
+        <div class="gsod-smiley">:(</div>
+        <div class="gsod-text">Your internet ran into a problem and needs to restart. We're just collecting some error info, and then we'll restart for you.</div>
+        <div class="gsod-progress">0% complete</div>
+        <div class="gsod-footer">
+            <div class="gsod-qr">
+                <img src="img/other/gsod.gif" alt="QR" class="qr-primary">
+                <img src="img/other/catlaf.gif" alt="QR" class="qr-hover">
+            </div>
+            <div class="gsod-info">
+                <b>For more information about this issue and possible fixes, visit https://www.ishowspeed.com/stopcode</b>
+                <span>If you call a support person, give them this info:</span>
+                <span>Stop code: THE_INTERNET_HAS_BEEN_TAKEN_OVER_BY_ISHOWSPEED</span>
+            </div>
+        </div>
+    </div>
+    <div class="jumpscare-overlay" id="jumpscare">
+        <img src="img/ads/speed_jump.gif" alt="BOO!">
+    </div>
+    <div class="results-world">
+        <header class="results-header">
+            <div class="top-bar">
+                <h1 class="gurgle-logo-small"><a href="index.html">Gurgle</a></h1>
+                <form class="search-box" method="GET" action="results.html">
+                    <div class="autocomplete-container">
+                        <div class="search-inner">
+                            <input type="text" placeholder="Search anything..." name="q" id="q" autocomplete="off">
+                            <div class="search-actions">
+                                <button type="submit" aria-label="Search">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                                        <path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5A6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5S14 7.01 14 9.5S11.99 14 9.5 14"/>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <nav class="nav-bar">
+                <ul class="sidebar-list">
+                    <li><a href="?i=1" id="sidebar-item-1">Everything</a></li>
+                    <li><a href="?i=2" id="sidebar-item-2">Images</a></li>
+                    <li><a href="?i=3" id="sidebar-item-3">Shopping</a></li>
+                    <li><a href="?i=4" id="sidebar-item-4">Cooking</a></li>
+                    <li><a href="?i=5" id="sidebar-item-5">Eating</a></li>
+                    <li><a href="?i=5" id="sidebar-item-5">Walking</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div id="results">
+            <div class="below-search-bar">
+            <div class="search-details">
+                <small id="search-count">About 100,000,000 results (0.05 seconds)</small>
+                <a href="#" id="search-options">Search options</a>
+            </div>
+            <div class="search-options-bar" id="options-bar">
+                <select name="search-options" id="search-options-select">
+                    <option value="any-time">Any time</option>
+                    <option value="past-hour">Past hour</option>
+                    <option value="past-24-hours">Past 24 hours</option>
+                    <option value="past-week">Past week</option>
+                    <option value="past-month">Past month</option>
+                    <option value="past-year">Past year</option>
+                </select>
+                <select name="search-type" id="search-type-select">
+                    <option value="all">All results</option>
+                    <option value="verbatim">Verbatim</option>
+                </select>
+            </div>
+        </div>
+        </div>
+    </div>
+    <script src="lib/commons.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/results.js"></script>
+</body>
+</html>

@@ -1,0 +1,245 @@
+[
+  {
+    "site_name": "SayItRight",
+    "title": "How do you pronounce {}",
+    "desc": "Unsure how to say a word? Get the pronunciation right here!",
+    "url": "https://sayitright.io/[]"
+  },
+  {
+    "site_name": "Recipe Realm",
+    "title": "What is the best recipe for {}",
+    "desc": "Discover delicious dishes and explore new culinary creations!",
+    "url": "https://reciperealm.net/search/[]"
+  },
+  {
+    "site_name": "Lyric Nest",
+    "title": "What are the lyrics to {}",
+    "desc": "Sing along with your favorite songs! Find the complete lyrics here!",
+    "url": "https://lyricnest.org/find/[]"
+  },
+  {
+    "site_name": "Can I Do This",
+    "title": "Can I {}?",
+    "desc": "Is {} possible? Find out if {} can be done!",
+    "url": "https://canidothis.co/query/[]"
+  },
+  {
+    "site_name": "Make It Simple",
+    "title": "How to make {}",
+    "desc": "Learn step-by-step instructions for creating anything!",
+    "url": "https://makeitsimple.dev/guide/[]"
+  },
+  {
+    "site_name": "Fact Haven",
+    "title": "What are some interesting facts about {}",
+    "desc": "Uncover surprising and fascinating trivia about anything!",
+    "url": "https://facthaven.info/topic/[]"
+  },
+  {
+    "site_name": "Buy Smartly",
+    "title": "Where is the best place to buy {}",
+    "desc": "Find the perfect store or website to purchase what you need!",
+    "url": "https://buysmartly.shop/search/[]"
+  },
+  {
+    "site_name": "Travel Pathways",
+    "title": "How to travel to {}",
+    "desc": "Plan your dream vacation and discover travel tips to {}!",
+    "url": "https://travelpathways.co/routes/[]"
+  },
+  {
+    "site_name": "Fix It Hub",
+    "title": "How to fix {}",
+    "desc": "Troubleshoot problems and find solutions to fix {}!",
+    "url": "https://fixithub.tech/repair/[]"
+  },
+  {
+    "site_name": "Benefit Scope",
+    "title": "What are the benefits of {}",
+    "desc": "Learn about the positive aspects and advantages of {}!",
+    "url": "https://benefitscope.org/explore/[]"
+  },
+
+  {
+    "site_name": "Quick Answers Lab",
+    "title": "Why does {} happen",
+    "desc": "Get clear explanations for everyday questions and curiosities!",
+    "url": "https://quickanswerslab.io/explain/[]"
+  },
+  {
+    "site_name": "Deep Thinker",
+    "title": "What is the meaning of {}",
+    "desc": "Explore deeper insights and interpretations of any concept!",
+    "url": "https://deepthinker.world/meaning/[]"
+  },
+  {
+    "site_name": "Compare Central",
+    "title": "Is {} better than {}",
+    "desc": "Side-by-side comparisons to help you decide faster!",
+    "url": "https://comparecentral.net/compare/[]"
+  },
+  {
+    "site_name": "Skill Forge",
+    "title": "How to learn {} fast",
+    "desc": "Accelerate your learning with focused strategies and tips!",
+    "url": "https://skillforge.dev/learn/[]"
+  },
+  {
+    "site_name": "Idea Generator Pro",
+    "title": "Ideas for {}",
+    "desc": "Generate creative and unique ideas instantly!",
+    "url": "https://ideagenerator.pro/list/[]"
+  },
+  {
+    "site_name": "Explain Like Five",
+    "title": "Explain {} in simple terms",
+    "desc": "Break down complex topics into easy explanations!",
+    "url": "https://explainlikefive.co/simple/[]"
+  },
+  {
+    "site_name": "Trend Radar",
+    "title": "Is {} trending",
+    "desc": "Track what is popular and rising right now!",
+    "url": "https://trendradar.live/check/[]"
+  },
+  {
+    "site_name": "Future Scope",
+    "title": "Is {} a good career",
+    "desc": "Evaluate career paths with realistic insights!",
+    "url": "https://futurescope.careers/evaluate/[]"
+  },
+  {
+    "site_name": "Myth Buster Hub",
+    "title": "Is {} a myth",
+    "desc": "Separate facts from fiction with evidence-based answers!",
+    "url": "https://mythbusterhub.org/check/[]"
+  },
+  {
+    "site_name": "Step By Step World",
+    "title": "Step by step guide for {}",
+    "desc": "Follow structured guides to complete any task!",
+    "url": "https://stepbystep.world/guide/[]"
+  },
+
+  {
+    "site_name": "Curious Minds",
+    "title": "What happens if {}",
+    "desc": "Explore hypothetical scenarios and their outcomes!",
+    "url": "https://curiousminds.space/whatif/[]"
+  },
+  {
+    "site_name": "Answer Grid",
+    "title": "Best way to {}",
+    "desc": "Find optimized methods to get things done efficiently!",
+    "url": "https://answergrid.io/best/[]"
+  },
+  {
+    "site_name": "Fact or Fiction",
+    "title": "Is it true that {}",
+    "desc": "Verify claims and uncover the truth behind statements!",
+    "url": "https://factorfiction.net/verify/[]"
+  },
+  {
+    "site_name": "Starter Pack Hub",
+    "title": "Beginner guide to {}",
+    "desc": "Start learning anything with the right foundation!",
+    "url": "https://starterpackhub.dev/start/[]"
+  },
+  {
+    "site_name": "Smart Choices",
+    "title": "Should I {}",
+    "desc": "Make better decisions with balanced insights!",
+    "url": "https://smartchoices.ai/decide/[]"
+  },
+  {
+    "site_name": "Name Generator Lab",
+    "title": "Names for {}",
+    "desc": "Generate creative names for anything instantly!",
+    "url": "https://namegeneratorlab.com/create/[]"
+  },
+  {
+    "site_name": "Fix Fast Now",
+    "title": "Why is {} not working",
+    "desc": "Quick troubleshooting for common problems!",
+    "url": "https://fixfastnow.tech/issue/[]"
+  },
+  {
+    "site_name": "History Vault",
+    "title": "History of {}",
+    "desc": "Discover the origins and evolution of anything!",
+    "url": "https://historyvault.org/timeline/[]"
+  },
+  {
+    "site_name": "Data Lens",
+    "title": "Statistics about {}",
+    "desc": "View numbers, trends, and data insights clearly!",
+    "url": "https://datalens.analytics/stats/[]"
+  },
+  {
+    "site_name": "Pros Cons Lab",
+    "title": "Pros and cons of {}",
+    "desc": "Evaluate advantages and disadvantages quickly!",
+    "url": "https://prosconslab.com/analyze/[]"
+  },
+
+  {
+    "site_name": "Hidden Gems Finder",
+    "title": "Best hidden {}",
+    "desc": "Discover underrated and lesser-known options!",
+    "url": "https://hiddengemsfinder.io/find/[]"
+  },
+  {
+    "site_name": "Quick Fix Guide",
+    "title": "Quick fix for {}",
+    "desc": "Solve issues fast with minimal effort!",
+    "url": "https://quickfixguide.dev/solve/[]"
+  },
+  {
+    "site_name": "Daily Hacks",
+    "title": "Life hacks for {}",
+    "desc": "Improve your daily life with simple tricks!",
+    "url": "https://dailyhacks.life/hacks/[]"
+  },
+  {
+    "site_name": "Ultimate Guide Book",
+    "title": "Ultimate guide to {}",
+    "desc": "Comprehensive knowledge all in one place!",
+    "url": "https://ultimateguidebook.com/full/[]"
+  },
+  {
+    "site_name": "Reality Check",
+    "title": "Is {} worth it",
+    "desc": "Get honest opinions before you commit!",
+    "url": "https://realitycheck.now/worth/[]"
+  },
+  {
+    "site_name": "Skill Tester",
+    "title": "How good am I at {}",
+    "desc": "Assess your abilities with quick evaluations!",
+    "url": "https://skilltester.app/check/[]"
+  },
+  {
+    "site_name": "Time Saver Pro",
+    "title": "Fastest way to {}",
+    "desc": "Save time with optimized approaches!",
+    "url": "https://timesaver.pro/fast/[]"
+  },
+  {
+    "site_name": "Error Decoder",
+    "title": "What does {} error mean",
+    "desc": "Understand error messages and fix them easily!",
+    "url": "https://errordecoder.dev/meaning/[]"
+  },
+  {
+    "site_name": "AI Helper Zone",
+    "title": "Use AI to {}",
+    "desc": "Leverage artificial intelligence for your tasks!",
+    "url": "https://aihelperzone.tech/use/[]"
+  },
+  {
+    "site_name": "Next Step Planner",
+    "title": "What should I do after {}",
+    "desc": "Plan your next move with clarity!",
+    "url": "https://nextstepplanner.co/after/[]"
+  }
+]

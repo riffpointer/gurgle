@@ -1,2 +1,2 @@
-# gurgle
- Best search engine you'll ever use
+# Gurgle
+ It's just a search engine. Trust me.
